@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.vanneries img{
+    margin-top: 5%;
+    width: 100%;
+}
+.textiles img{
+    margin-top: 2%;
+    width: 100%;
+}
+.card{
+    margin-top: 2%;
+}
+.card img{
+    width: 100%;
+}
+.card-2{
+    margin-top: 2%;
+}
+.card-2 img{
+    width: 100%;
+}
+.links{
+    margin-top: 5%;
+    text-align: center;
+}
+.links i{
+    color: white;
+    border-radius: 5px;
+    font-size: 50px;
+    background: #000;
+}
+.m{
+  text-align: center;  
+}
